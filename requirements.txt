@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+notebook
+shapely
+wandb
+torch
+torchvision
+torchaudio
+wandb
+pillow
+opencv-python
