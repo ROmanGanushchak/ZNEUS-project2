@@ -9,9 +9,10 @@ jupyterlab
 notebook
 shapely
 wandb
-torch
-torchvision
-torchaudio
-wandb
+# torch
+# torchvision
+# torchaudio
+pandas
 pillow
 opencv-python
+tqdm
