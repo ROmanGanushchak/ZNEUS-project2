@@ -329,7 +329,6 @@ class SimpleCNN(nn.Module):
                 nn.ReLU(inplace=True),
                 
                 nn.MaxPool2d(2),
-                # nn.Dropout2d(0.1)
             )
         self.features = nn.Sequential(
             get_conv_layer(3, 32),
